@@ -27,4 +27,4 @@ Project Files
 
 Project Images
 
-See uploaded project images in the reposi
+Project images are available in the repository files.
